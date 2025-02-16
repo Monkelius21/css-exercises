@@ -1,0 +1,16 @@
+.fstElem,
+.sndElem{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.fstElem{
+    background-color: black;
+    color: white;
+}
+
+.sndElem{
+    background-color: yellow;
+    color : black;
+}
+
